@@ -18,6 +18,18 @@
   <em>What if you could watch AI agents work in a tiny office on your screen?</em>
 </p>
 
+<p align="center">
+  <a href="http://skill-deploy-qmm7droauc.vercel.app/"><strong>🔗 Live Preview →</strong></a>
+</p>
+
+---
+
+## 🌐 Preview
+
+**Try it live:** [**skill-deploy-qmm7droauc.vercel.app**](http://skill-deploy-qmm7droauc.vercel.app/)
+
+Drag to orbit · Scroll to zoom · Slide the time bar · Hit "LIGHTS OFF" for cyberpunk mode · Click `i` for info
+
 ---
 
 ## ✨ What is this?
